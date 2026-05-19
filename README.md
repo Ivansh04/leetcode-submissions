@@ -79,6 +79,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0011-container-with-most-water](https://github.com/Ivansh04/neetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0074-search-a-2d-matrix](https://github.com/Ivansh04/neetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ivansh04/neetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ivansh04/neetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/Ivansh04/neetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/Ivansh04/neetcode-submissions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Ivansh04/neetcode-submissions/tree/master/0739-daily-temperatures) |
@@ -123,6 +124,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Ivansh04/neetcode-submissions/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ivansh04/neetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Ivansh04/neetcode-submissions/tree/master/0704-binary-search) |
 ## Matrix
 |  |
