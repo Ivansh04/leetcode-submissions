@@ -104,6 +104,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ivansh04/neetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Ivansh04/neetcode-submissions/tree/master/0020-valid-parentheses) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ivansh04/neetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 ## Stack
 |  |
 | ------- |
@@ -148,8 +149,10 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ivansh04/neetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ivansh04/neetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ivansh04/neetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ivansh04/neetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
