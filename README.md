@@ -92,6 +92,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ivansh04/neetcode-submissions/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Ivansh04/neetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Ivansh04/neetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Ivansh04/neetcode-submissions/tree/master/0143-reorder-list) |
 | [0567-permutation-in-string](https://github.com/Ivansh04/neetcode-submissions/tree/master/0567-permutation-in-string) |
@@ -183,6 +184,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Ivansh04/neetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Ivansh04/neetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Ivansh04/neetcode-submissions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Ivansh04/neetcode-submissions/tree/master/0206-reverse-linked-list) |
