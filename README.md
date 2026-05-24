@@ -176,4 +176,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ivansh04/neetcode-submissions/tree/master/0239-sliding-window-maximum) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Ivansh04/neetcode-submissions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Ivansh04/neetcode-submissions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
