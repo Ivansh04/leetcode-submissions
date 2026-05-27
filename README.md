@@ -85,6 +85,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ivansh04/neetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/Ivansh04/neetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Ivansh04/neetcode-submissions/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/Ivansh04/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Ivansh04/neetcode-submissions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Ivansh04/neetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Ivansh04/neetcode-submissions/tree/master/0853-car-fleet) |
@@ -95,6 +96,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ivansh04/neetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Ivansh04/neetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Ivansh04/neetcode-submissions/tree/master/0143-reorder-list) |
+| [0287-find-the-duplicate-number](https://github.com/Ivansh04/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Ivansh04/neetcode-submissions/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
@@ -141,6 +143,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0033-search-in-rotated-sorted-array](https://github.com/Ivansh04/neetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Ivansh04/neetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ivansh04/neetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Ivansh04/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Ivansh04/neetcode-submissions/tree/master/0704-binary-search) |
 ## Matrix
 |  |
@@ -198,4 +201,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0021-merge-two-sorted-lists](https://github.com/Ivansh04/neetcode-submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Ivansh04/neetcode-submissions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Ivansh04/neetcode-submissions/tree/master/0206-reverse-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Ivansh04/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
