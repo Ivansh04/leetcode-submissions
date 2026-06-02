@@ -218,16 +218,20 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Ivansh04/neetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Ivansh04/neetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Ivansh04/neetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Ivansh04/neetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Ivansh04/neetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Ivansh04/neetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Ivansh04/neetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Ivansh04/neetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
