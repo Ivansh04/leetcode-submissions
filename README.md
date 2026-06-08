@@ -89,6 +89,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0704-binary-search](https://github.com/Ivansh04/neetcode-submissions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Ivansh04/neetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Ivansh04/neetcode-submissions/tree/master/0853-car-fleet) |
+| [0973-k-closest-points-to-origin](https://github.com/Ivansh04/neetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Ivansh04/neetcode-submissions/tree/master/1046-last-stone-weight) |
 ## Two Pointers
 |  |
@@ -128,6 +129,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ivansh04/neetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ivansh04/neetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0973-k-closest-points-to-origin](https://github.com/Ivansh04/neetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -137,6 +139,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0853-car-fleet](https://github.com/Ivansh04/neetcode-submissions/tree/master/0853-car-fleet) |
+| [0973-k-closest-points-to-origin](https://github.com/Ivansh04/neetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Search
 |  |
 | ------- |
@@ -155,6 +158,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ivansh04/neetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Ivansh04/neetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
+| [0973-k-closest-points-to-origin](https://github.com/Ivansh04/neetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -186,6 +190,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0023-merge-k-sorted-lists](https://github.com/Ivansh04/neetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Ivansh04/neetcode-submissions/tree/master/0239-sliding-window-maximum) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ivansh04/neetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/Ivansh04/neetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Ivansh04/neetcode-submissions/tree/master/1046-last-stone-weight) |
 ## Monotonic Queue
 |  |
@@ -263,4 +268,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ivansh04/neetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Ivansh04/neetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Ivansh04/neetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
