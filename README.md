@@ -83,6 +83,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ivansh04/neetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ivansh04/neetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ivansh04/neetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ivansh04/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Ivansh04/neetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Ivansh04/neetcode-submissions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Ivansh04/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
@@ -138,6 +139,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ivansh04/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0853-car-fleet](https://github.com/Ivansh04/neetcode-submissions/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/Ivansh04/neetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Search
@@ -158,6 +160,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ivansh04/neetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Ivansh04/neetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ivansh04/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Ivansh04/neetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
@@ -188,6 +191,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ivansh04/neetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ivansh04/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Ivansh04/neetcode-submissions/tree/master/0239-sliding-window-maximum) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ivansh04/neetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/Ivansh04/neetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
@@ -275,5 +279,6 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ivansh04/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Ivansh04/neetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
