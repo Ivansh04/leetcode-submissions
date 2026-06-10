@@ -79,6 +79,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0004-median-of-two-sorted-arrays](https://github.com/Ivansh04/neetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Ivansh04/neetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ivansh04/neetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/Ivansh04/neetcode-submissions/tree/master/0039-combination-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Ivansh04/neetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Ivansh04/neetcode-submissions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ivansh04/neetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -286,5 +287,6 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Ivansh04/neetcode-submissions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Ivansh04/neetcode-submissions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
