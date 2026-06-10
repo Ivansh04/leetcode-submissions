@@ -80,6 +80,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0011-container-with-most-water](https://github.com/Ivansh04/neetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ivansh04/neetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Ivansh04/neetcode-submissions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Ivansh04/neetcode-submissions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ivansh04/neetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ivansh04/neetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ivansh04/neetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -222,6 +223,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Ivansh04/neetcode-submissions/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Ivansh04/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 ## Merge Sort
 |  |
@@ -281,4 +283,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ivansh04/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Ivansh04/neetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Ivansh04/neetcode-submissions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
