@@ -116,6 +116,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ivansh04/neetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Ivansh04/neetcode-submissions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Ivansh04/neetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Ivansh04/neetcode-submissions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ivansh04/neetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Ivansh04/neetcode-submissions/tree/master/0567-permutation-in-string) |
@@ -167,6 +168,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ivansh04/neetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ivansh04/neetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ivansh04/neetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Hash Table
@@ -287,6 +289,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ivansh04/neetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Ivansh04/neetcode-submissions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Ivansh04/neetcode-submissions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
