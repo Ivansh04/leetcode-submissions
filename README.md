@@ -82,6 +82,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0039-combination-sum](https://github.com/Ivansh04/neetcode-submissions/tree/master/0039-combination-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Ivansh04/neetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Ivansh04/neetcode-submissions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Ivansh04/neetcode-submissions/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ivansh04/neetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ivansh04/neetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ivansh04/neetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -118,6 +119,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0020-valid-parentheses](https://github.com/Ivansh04/neetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ivansh04/neetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Ivansh04/neetcode-submissions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Ivansh04/neetcode-submissions/tree/master/0079-word-search) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ivansh04/neetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Ivansh04/neetcode-submissions/tree/master/0567-permutation-in-string) |
 ## Stack
@@ -158,6 +160,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Ivansh04/neetcode-submissions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Ivansh04/neetcode-submissions/tree/master/0079-word-search) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -244,6 +247,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Ivansh04/neetcode-submissions/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Ivansh04/neetcode-submissions/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ivansh04/neetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Ivansh04/neetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
@@ -292,4 +296,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0022-generate-parentheses](https://github.com/Ivansh04/neetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Ivansh04/neetcode-submissions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Ivansh04/neetcode-submissions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Ivansh04/neetcode-submissions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
