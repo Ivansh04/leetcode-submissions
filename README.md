@@ -120,6 +120,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0022-generate-parentheses](https://github.com/Ivansh04/neetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Ivansh04/neetcode-submissions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Ivansh04/neetcode-submissions/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/Ivansh04/neetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ivansh04/neetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Ivansh04/neetcode-submissions/tree/master/0567-permutation-in-string) |
 ## Stack
@@ -174,6 +175,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0022-generate-parentheses](https://github.com/Ivansh04/neetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ivansh04/neetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ivansh04/neetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/Ivansh04/neetcode-submissions/tree/master/0131-palindrome-partitioning) |
 ## Hash Table
 |  |
 | ------- |
@@ -297,4 +299,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0039-combination-sum](https://github.com/Ivansh04/neetcode-submissions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Ivansh04/neetcode-submissions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Ivansh04/neetcode-submissions/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/Ivansh04/neetcode-submissions/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
