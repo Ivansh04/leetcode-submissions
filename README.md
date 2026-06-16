@@ -123,6 +123,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0076-minimum-window-substring](https://github.com/Ivansh04/neetcode-submissions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Ivansh04/neetcode-submissions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Ivansh04/neetcode-submissions/tree/master/0131-palindrome-partitioning) |
+| [0208-implement-trie-prefix-tree](https://github.com/Ivansh04/neetcode-submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ivansh04/neetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Ivansh04/neetcode-submissions/tree/master/0567-permutation-in-string) |
 ## Stack
@@ -185,6 +186,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ivansh04/neetcode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/Ivansh04/neetcode-submissions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Ivansh04/neetcode-submissions/tree/master/0141-linked-list-cycle) |
+| [0208-implement-trie-prefix-tree](https://github.com/Ivansh04/neetcode-submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ivansh04/neetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Ivansh04/neetcode-submissions/tree/master/0567-permutation-in-string) |
 ## Sliding Window
@@ -281,6 +283,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Ivansh04/neetcode-submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ivansh04/neetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -305,4 +308,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0078-subsets](https://github.com/Ivansh04/neetcode-submissions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Ivansh04/neetcode-submissions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Ivansh04/neetcode-submissions/tree/master/0131-palindrome-partitioning) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Ivansh04/neetcode-submissions/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
