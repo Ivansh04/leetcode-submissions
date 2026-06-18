@@ -87,6 +87,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ivansh04/neetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ivansh04/neetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ivansh04/neetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/Ivansh04/neetcode-submissions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ivansh04/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Ivansh04/neetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Ivansh04/neetcode-submissions/tree/master/0239-sliding-window-maximum) |
@@ -166,6 +167,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Ivansh04/neetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Ivansh04/neetcode-submissions/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Ivansh04/neetcode-submissions/tree/master/0200-number-of-islands) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -259,6 +261,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0098-validate-binary-search-tree](https://github.com/Ivansh04/neetcode-submissions/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ivansh04/neetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Ivansh04/neetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Ivansh04/neetcode-submissions/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Ivansh04/neetcode-submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ivansh04/neetcode-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ivansh04/neetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -266,6 +269,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Ivansh04/neetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Ivansh04/neetcode-submissions/tree/master/0200-number-of-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ivansh04/neetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -316,4 +320,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Ivansh04/neetcode-submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Ivansh04/neetcode-submissions/tree/master/0211-design-add-and-search-words-data-structure) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Ivansh04/neetcode-submissions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
