@@ -97,6 +97,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0739-daily-temperatures](https://github.com/Ivansh04/neetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Ivansh04/neetcode-submissions/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/Ivansh04/neetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/Ivansh04/neetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Ivansh04/neetcode-submissions/tree/master/1046-last-stone-weight) |
 ## Two Pointers
 |  |
@@ -170,6 +171,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0079-word-search](https://github.com/Ivansh04/neetcode-submissions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Ivansh04/neetcode-submissions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Ivansh04/neetcode-submissions/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/Ivansh04/neetcode-submissions/tree/master/0994-rotting-oranges) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -277,6 +279,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0199-binary-tree-right-side-view](https://github.com/Ivansh04/neetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Ivansh04/neetcode-submissions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Ivansh04/neetcode-submissions/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/Ivansh04/neetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ivansh04/neetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
