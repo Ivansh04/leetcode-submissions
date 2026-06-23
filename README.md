@@ -143,6 +143,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ivansh04/neetcode-submissions/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/Ivansh04/neetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ivansh04/neetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0973-k-closest-points-to-origin](https://github.com/Ivansh04/neetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 ## Monotonic Stack
@@ -185,6 +186,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ivansh04/neetcode-submissions/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Ivansh04/neetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ivansh04/neetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ivansh04/neetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Ivansh04/neetcode-submissions/tree/master/0131-palindrome-partitioning) |
@@ -343,4 +345,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Ivansh04/neetcode-submissions/tree/master/0133-clone-graph) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ivansh04/neetcode-submissions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
