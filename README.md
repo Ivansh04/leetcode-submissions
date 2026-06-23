@@ -96,6 +96,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0695-max-area-of-island](https://github.com/Ivansh04/neetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Ivansh04/neetcode-submissions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Ivansh04/neetcode-submissions/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/Ivansh04/neetcode-submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/Ivansh04/neetcode-submissions/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/Ivansh04/neetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/Ivansh04/neetcode-submissions/tree/master/0994-rotting-oranges) |
@@ -190,6 +191,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ivansh04/neetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ivansh04/neetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Ivansh04/neetcode-submissions/tree/master/0131-palindrome-partitioning) |
+| [0746-min-cost-climbing-stairs](https://github.com/Ivansh04/neetcode-submissions/tree/master/0746-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
