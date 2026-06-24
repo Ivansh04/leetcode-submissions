@@ -355,4 +355,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ivansh04/neetcode-submissions/tree/master/0070-climbing-stairs) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Ivansh04/neetcode-submissions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
