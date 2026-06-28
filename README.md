@@ -85,6 +85,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0078-subsets](https://github.com/Ivansh04/neetcode-submissions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Ivansh04/neetcode-submissions/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ivansh04/neetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/Ivansh04/neetcode-submissions/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ivansh04/neetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ivansh04/neetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Ivansh04/neetcode-submissions/tree/master/0198-house-robber) |
@@ -131,6 +132,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0079-word-search](https://github.com/Ivansh04/neetcode-submissions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Ivansh04/neetcode-submissions/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Ivansh04/neetcode-submissions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Ivansh04/neetcode-submissions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ivansh04/neetcode-submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Ivansh04/neetcode-submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ivansh04/neetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
@@ -195,6 +197,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ivansh04/neetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ivansh04/neetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Ivansh04/neetcode-submissions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Ivansh04/neetcode-submissions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Ivansh04/neetcode-submissions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ivansh04/neetcode-submissions/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ivansh04/neetcode-submissions/tree/master/0746-min-cost-climbing-stairs) |
@@ -205,6 +208,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ivansh04/neetcode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/Ivansh04/neetcode-submissions/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/Ivansh04/neetcode-submissions/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/Ivansh04/neetcode-submissions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Ivansh04/neetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ivansh04/neetcode-submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ivansh04/neetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
@@ -342,6 +346,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Ivansh04/neetcode-submissions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ivansh04/neetcode-submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Ivansh04/neetcode-submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Union-Find
@@ -357,6 +362,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ivansh04/neetcode-submissions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Ivansh04/neetcode-submissions/tree/master/0139-word-break) |
 ## Database
 |  |
 | ------- |
