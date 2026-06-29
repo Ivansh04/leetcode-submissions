@@ -135,6 +135,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0139-word-break](https://github.com/Ivansh04/neetcode-submissions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ivansh04/neetcode-submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Ivansh04/neetcode-submissions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0242-valid-anagram](https://github.com/Ivansh04/neetcode-submissions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ivansh04/neetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Ivansh04/neetcode-submissions/tree/master/0567-permutation-in-string) |
 ## Stack
@@ -161,6 +162,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ivansh04/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/Ivansh04/neetcode-submissions/tree/master/0242-valid-anagram) |
 | [0853-car-fleet](https://github.com/Ivansh04/neetcode-submissions/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/Ivansh04/neetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Search
@@ -211,6 +213,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0139-word-break](https://github.com/Ivansh04/neetcode-submissions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Ivansh04/neetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ivansh04/neetcode-submissions/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/Ivansh04/neetcode-submissions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ivansh04/neetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Ivansh04/neetcode-submissions/tree/master/0567-permutation-in-string) |
 ## Sliding Window
