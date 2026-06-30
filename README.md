@@ -150,6 +150,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ivansh04/neetcode-submissions/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/Ivansh04/neetcode-submissions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ivansh04/neetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ivansh04/neetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0973-k-closest-points-to-origin](https://github.com/Ivansh04/neetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
@@ -194,6 +195,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ivansh04/neetcode-submissions/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/Ivansh04/neetcode-submissions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ivansh04/neetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Ivansh04/neetcode-submissions/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ivansh04/neetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -375,4 +377,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Ivansh04/neetcode-submissions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Ivansh04/neetcode-submissions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Ivansh04/neetcode-submissions/tree/master/1757-recyclable-and-low-fat-products) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Ivansh04/neetcode-submissions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
